@@ -5,7 +5,4 @@
 ## Скачать
 [Скачать .exe](https://github.com/RomanSeledtsov/text_generator_practice/releases/latest)
 
-## Установка (для разработки)
-1. Клонируйте репозиторий:
-   ```bash
-   git clone https://github.com/RomanSeledtsov/text_generator_practice.git
+
