@@ -1,0 +1,6 @@
+assets/*.cache
+.venv/
+.idea/
+dist/
+build/
+*.spec
